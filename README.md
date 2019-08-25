@@ -8,7 +8,7 @@
 
 这些年, Java应用程序在阿里巴巴中大量涌现。 许多的应用程序都是由Java编写的，许多的Java开发人员编写了超过10亿行的Java代码。
 
-Alibaba Dragonwell, as a downstream version of OpenJDK, is the in-house OpenJDK implementation at Alibaba optimized for online e-commerce, financial, logistics applications running on 100,000+ servers. Alibaba Dragonwell is the engine that runs these distributed Java applications in extreme scaling.
+作为OpenJDK的下游版本，阿里巴巴的Dragonwell是阿里巴巴内部对于OpenJDK的开源实现。阿里巴巴由运行在10万台服务器上的在线电子商务，金融和物流应用程序场景，对Open JDK进行优化，形成Dragon，并将其作为分布式Java应用程序的运行引擎。
 
 Alibaba Dragonwell is certified as compatible with the Java SE standard. The current release supports Linux/x86_64 platform only.
 
