@@ -4,9 +4,9 @@
 
 [Alibaba Dragonwell8 Release Notes](https://github.com/alibaba/dragonwell8/wiki/Alibaba-Dragonwell8-Release-Notes)
 
-# Introduction
+# 介绍
 
-Over the years, Java has proliferated in Alibaba. Many applications are written in Java and many our Java developers have written more than one billion lines of Java code.
+这些年, Java应用程序在阿里巴巴中大量涌现。 许多的应用程序都是由Java编写的，许多的Java开发人员编写了超过10亿行的Java代码。
 
 Alibaba Dragonwell, as a downstream version of OpenJDK, is the in-house OpenJDK implementation at Alibaba optimized for online e-commerce, financial, logistics applications running on 100,000+ servers. Alibaba Dragonwell is the engine that runs these distributed Java applications in extreme scaling.
 
